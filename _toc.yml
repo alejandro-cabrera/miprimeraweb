@@ -4,5 +4,6 @@
 format: jb-book
 root: intro
 chapters:
+- file: Información del autor
 - file: markdown
 - file: markdown2
